@@ -1,0 +1,2 @@
+# Bluetooth-Controlled-Solenoid-Lock
+Android App Development which utilizes a smartphones fingerprint sensor, and transmits the equivalent voltage levels over Bluetooth. Code Implementation in Arduino IDE to compare the fingerprint received by the Arduino Nano, using a Bluetooth Module (HC-05), with the correct one. If matched, the Arduino Nano uses a NPN transistor to supply the required voltage to open the solenoid lock.
